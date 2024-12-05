@@ -55,6 +55,12 @@ The dashboard provides valuable insights into customer behavior, segmentation, a
        [Download here](https://github.com/jemisha29/Customer-Segmentation-Analysis-RFM-/blob/main/customer%20segmentation.pbix)
 
 ### **Dashboard**
+- Overall Analysis
+![Overall](https://github.com/user-attachments/assets/8f16ca4d-ef16-4c6c-a3c3-89fe8cc400a7)
+
+- RFM Analysis
+![RFM](https://github.com/user-attachments/assets/62901653-8359-4042-a725-351a5556ed9b)
+
 
 ### **Key Insights**
 - Loyal customers contribute the highest revenue (~$5.8M).
