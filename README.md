@@ -37,7 +37,7 @@ The dashboard provides valuable insights into customer behavior, segmentation, a
    - Accessed raw customer data in Excel format.
    - Performed data cleaning and transformation to ensure accuracy.
    - Used these values to create customer segments.
-  
+
    **2. Data Import in Power BI:**
    - Imported the cleaned dataset into Power BI.
   
@@ -50,8 +50,11 @@ The dashboard provides valuable insights into customer behavior, segmentation, a
 
 ### **Tools & Technologies**
   - **Microsoft Excel** : Data cleaning and preparation.
+       [Download here](https://github.com/jemisha29/Customer-Segmentation-Analysis-RFM-/blob/main/Sales.xlsb)
   - **Power BI** : Data visualization and dashboard creation.
+       [Download here](https://github.com/jemisha29/Customer-Segmentation-Analysis-RFM-/blob/main/customer%20segmentation.pbix)
 
+### **Dashboard**
 
 ### **Key Insights**
 - Loyal customers contribute the highest revenue (~$5.8M).
